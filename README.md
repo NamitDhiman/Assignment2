@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,3 +33,4 @@
     <button class="btn">Click Me!</button>
 </body>
 </html>
+```html
